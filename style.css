@@ -6,7 +6,7 @@ body {
 
 h1 {
   font-family: 'Anton', sans-serif;
-  font-size: 3.0em;
+  font-size: 5.0em;
   color: #EAEAEA;
 }
 
@@ -37,7 +37,7 @@ td {
 }
 
 th {
-  border: 3px solid #ffffff;
+  border: 1px solid #ffffff;
   font-family: 'Exo 2', sans-serif;
   color: #3F0099;
   background-color: #E8D9FF;
@@ -47,5 +47,5 @@ th {
 .planet {
   background-color: #A566FF;
   font-weight: bold;
-  font-size: 1.5em;
+  font-size: 2em;
 }
